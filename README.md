@@ -36,6 +36,7 @@ Layout design - Flexible, Expanded to let the app fit in different screen sizes
 - GestureDetector() to make a Picture or Icon reactive to the touch, tap, etc.
 - HTTP header, request form, response data, and JSON encode/decode
 - Flexible and Expanded could not be nested with each other, they should only be nested under the FLEX widget (e.g. Column, Row) (separately)
+- CameraPreview stretch when sizing the preview window to be smaller than full-screen (no good solutions for it yet, need deeper APIs from Android and the mobile manufacturer.
 - Other flutter packages I have poked around
   - [animated_flip_counter](https://pub.dev/packages/animated_flip_counter)
   - [step_progress_indicator](https://pub.dev/packages/step_progress_indicator)

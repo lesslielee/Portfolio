@@ -1,8 +1,8 @@
 # Portfolio
 To show some works I've done
+
 ## Train Those Lips (Flutter)
 ### Layout
-
 Layout design - Flexible, Expanded to let the app fit in different screen sizes 
 
 ### Packages used in the project
@@ -41,3 +41,11 @@ Layout design - Flexible, Expanded to let the app fit in different screen sizes
   - [step_progress_indicator](https://pub.dev/packages/step_progress_indicator)
   - [just_audio](https://pub.dev/packages/just_audio) <img src="https://pub.dev/static/hash-rp3lqslb/img/ff-banner-desktop-2x.png" width=20 />
   
+- Tips for colorizing text in GitHub
+
+```diff
+- red
++ green
+! orange
+# gray
+```

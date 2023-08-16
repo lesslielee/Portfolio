@@ -41,7 +41,9 @@ Layout design - Flexible, Expanded to let the app fit in different screen sizes
   - [animated_flip_counter](https://pub.dev/packages/animated_flip_counter)
   - [step_progress_indicator](https://pub.dev/packages/step_progress_indicator)
   - [just_audio](https://pub.dev/packages/just_audio) <img src="https://pub.dev/static/hash-rp3lqslb/img/ff-banner-desktop-2x.png" width=20 />
+****
 - Python module <img src="https://docs.python.org/3/_static/py.svg"/> [http.server](https://docs.python.org/3/library/http.server.html) (Source code: [Lib/http/server.py](https://github.com/python/cpython/tree/3.11/Lib/http/server.py)) is a simple module for implementing HTTP servers (not recommended for production, It only implements [basic security checks](https://docs.python.org/3/library/http.server.html#http-server-security).)
+****
 - Tips for colorizing text in GitHub
 
 ```diff

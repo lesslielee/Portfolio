@@ -26,7 +26,8 @@ Layout design - Flexible, Expanded to let the app fit in different screen sizes
 [dio](https://pub.dev/packages/dio) - to take the HTTP request (POST, GET, etc) to communicate between the App and backend server
 
 ### Tips & Skills & Technologies
-- Use 3rd party Fonts (e.g. [**'Cristik'**](https://textfonts.net/cristik-a-creative-type.html)) in the project
+- Use 3rd party Fonts (e.g. [**'Cristik'**](https://textfonts.net/cristik-a-creative-type.html)) <img src="https://i0.wp.com/textfonts.net/wp-content/uploads/2020/01/TextFonts.net_cristik-a-creative-type-3.jpg?w=900&ssl=1" height=100 /> in the project
+  
 - Timer(Duration()) and Timer.periodic(Duration())
   - ```Timer(Duration(microseconds: _delayDrawCircleTime), () { _startDrawCircle = true;});```
   - ```Timer.periodic(Duration(seconds: _Interval), (timer) async { await someAsyncCall(); };```

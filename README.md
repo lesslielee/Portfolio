@@ -44,14 +44,4 @@ Layout design - Flexible, Expanded to let the app fit in different screen sizes
   - [flutter_easyloading](https://pub.dev/packages/flutter_easyloading)
 ****
 - Python module <img src="https://docs.python.org/3/_static/py.svg"/> [http.server](https://docs.python.org/3/library/http.server.html) (Source code: [Lib/http/server.py](https://github.com/python/cpython/tree/3.11/Lib/http/server.py)) is a simple module for implementing HTTP servers (not recommended for production, It only implements [basic security checks](https://docs.python.org/3/library/http.server.html#http-server-security).)
-****
-- Tips for colorizing text in GitHub
 
-```diff
-- red
-+ green
-! orange
-# gray
-```  
-****
-[GitHub上编写文档](https://docs.github.com/zh/get-started/writing-on-github)
